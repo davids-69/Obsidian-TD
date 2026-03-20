@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Lore/Mythological Lore/Namnlös.md",
+                "file": "Monster/Normal Monster/Normal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Namnlös"
+              "title": "Normal"
             }
           }
         ]
@@ -186,29 +186,31 @@
   },
   "active": "a385cb7de03d1e2c",
   "lastOpenFiles": [
-    "World Building/Lore/legends/Namnlös.md",
-    "World Building/Land/Seafolk/Namnlös.md",
-    "World Building/Land/Magical Entities/Namnlös.md",
-    "World Building/Land/Humans/Namnlös.md",
-    "World Building/Land/elf/Namnlös.md",
-    "World Building/Land/Dwarf/Namnlös.md",
-    "World Building/Land/Beastfolk/Namnlös.md",
-    "Monster/Fast Monster/Namnlös.md",
-    "World Building/Land/Magical Entities",
-    "World Building/Land/Dwarf",
-    "World Building/Land/Seafolk",
-    "World Building/Land/Beastfolk",
-    "World Building/Land/elf",
-    "World Building/Land/Namnlös.md",
-    "World Building/Land/Humans",
+    "Monster/Tank Monster/Tank.md",
+    "Monster/Normal Monster/Normal.md",
+    "Monster/Fast Monster/Fast.md",
+    "World Building/Land/Map/Namnlös.md",
+    "World Building/Land/Folk/elf/Namnlös.md",
+    "World Building/Land/Map",
+    "World Building/Land/Folk/Namnlös.md",
+    "World Building/Land/Folk/Dwarf/Namnlös.md",
+    "World Building/Land/Folk",
+    "World Building/Land/Folk/Beastfolk/Namnlös.md",
+    "World Building/Land/Folk/Seafolk/Namnlös.md",
+    "World Building/Land/Folk/Magical Entities/Namnlös.md",
+    "World Building/Land/Folk/Humans/Namnlös.md",
     "World Building/Lore/Mythological Lore/Namnlös.md",
-    "World Building/Lore/legends",
+    "World Building/Lore/Legends/Namnlös.md",
+    "World Building/Land/Folk/Magical Entities",
+    "World Building/Land/Folk/Dwarf",
+    "World Building/Land/Folk/Seafolk",
+    "World Building/Land/Folk/Beastfolk",
+    "World Building/Land/Folk/elf",
+    "World Building/Land/Namnlös.md",
+    "World Building/Land/Folk/Humans",
+    "World Building/Lore/Legends",
     "World Building/Lore/Mythological Lore.md",
     "World Building/Lore/Mythological Lore",
-    "World Building/Lore/Folklore/Namnlös",
-    "World Building/Lore/Folklore",
-    "Monster/Tank Monster/Namnlös.md",
-    "Monster/Normal Monster/Namnlös.md",
     "Human Kingdom/Defence/hejj hejje.md",
     "Välkommen.md"
   ]

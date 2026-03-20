@@ -1,0 +1,1 @@
+this are Normal monster with average health
