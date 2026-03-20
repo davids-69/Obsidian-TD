@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Lore/Namnlös.md",
+                "file": "World Building/Land/Magical Entities/Namnlös.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,27 +180,36 @@
       "daily-notes:Öppna dagens anteckning": false,
       "templates:Infoga mall": false,
       "command-palette:Öppna kommandopalett": false,
-      "bases:Skapa ny bas": false
+      "bases:Skapa ny bas": false,
+      "obsidian-translator:Translate": false
     }
   },
   "active": "a385cb7de03d1e2c",
   "lastOpenFiles": [
+    "World Building/Land/Dwarf/Namnlös.md",
+    "World Building/Land/Magical Entities/Namnlös.md",
+    "World Building/Land/Seafolk/Namnlös.md",
+    "World Building/Land/Beastfolk/Namnlös.md",
+    "World Building/Land/Magical Entities",
+    "World Building/Land/Dwarf",
+    "World Building/Land/Seafolk",
+    "World Building/Land/elf/Namnlös.md",
+    "World Building/Land/Beastfolk",
+    "World Building/Land/Humans/Namnlös.md",
+    "World Building/Lore/legends/Namnlös.md",
+    "World Building/Land/elf",
     "World Building/Land/Namnlös.md",
-    "World Building/Lore/Namnlös.md",
+    "World Building/Land/Humans",
+    "World Building/Lore/Mythological Lore/Namnlös.md",
+    "World Building/Lore/legends",
+    "World Building/Lore/Mythological Lore.md",
+    "World Building/Lore/Mythological Lore",
+    "World Building/Lore/Folklore/Namnlös",
+    "World Building/Lore/Folklore",
     "Monster/Tank Monster/Namnlös.md",
     "Monster/Normal Monster/Namnlös.md",
     "Monster/Fast Monster/Namnlös.md",
     "Human Kingdom/Defence/hejj hejje.md",
-    "Human Kingdom/Defence",
-    "Human Kingdom",
-    "Välkommen.md",
-    "Monster/Tank Monster/Namnlös",
-    "Monster/Normal Monster/Namnlös",
-    "Monster/Fast Monster/Namnlös",
-    "Monster/Tank Monster",
-    "Monster/Normal Monster",
-    "Monster/Fast Monster",
-    "Monster",
-    "World Building/Land"
+    "Välkommen.md"
   ]
 }
