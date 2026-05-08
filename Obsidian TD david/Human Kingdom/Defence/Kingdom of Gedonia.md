@@ -1,0 +1,1 @@
+Gedoina Kingdom has being fighting monster invasion for millennium and the city stands strong.
